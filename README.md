@@ -55,7 +55,6 @@ Gosto de resolver problemas, automatizar processos e aprender novas ferramentas.
 🏅 Python: Inteligência Artificial Aplicada (12h)  
 🏅 Arquiteturas RAG com LLMs: embeddings, busca semântica e criação de agentes com LangChain (8h)  
 🏅 Python Básico (8h)  
-🏅 DevOpsDays Belo Horizonte 2025 (participação)
 
 ## GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivoaugusto7&layout=compact&theme=dracula)](https://github.com/SEU_USUARIO)
