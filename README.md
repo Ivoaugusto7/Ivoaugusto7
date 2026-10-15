@@ -1,6 +1,6 @@
 <div align="center">
 
-## Olá 👋 Eu sou o Ivo Augusto Neves Dalcin
+##  👋 - Ivo Augusto Neves Dalcin
 
 💻 Estagiário em Sistemas e Infraestrutura | Estudante de Sistemas de Informação na PUC Minas
 
